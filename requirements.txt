@@ -1,0 +1,5 @@
+pytest
+flask
+flask_apscheduler
+flask_httpauth
+grequests
